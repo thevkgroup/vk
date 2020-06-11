@@ -1,0 +1,47 @@
+
+@font-face{
+    font-family: myfont;
+    src:url(Anklepan.ttf) format("truetype");
+}
+
+img{
+    display: block;
+    height: 400px;
+    
+    
+}
+img,h1{
+    position: absolute;
+  
+
+}  
+#value1{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 237px;
+    font-size: 30px;
+    font-family: myfont;
+    color:rgba(156, 136, 73,0.65)
+}
+  
+#value2{
+    position: absolute;
+    margin-left: 78px;
+    margin-top: 274px;
+    font-size: 30px;
+    font-family: myfont;
+    color:rgba(156, 136, 73,0.65)
+
+}
+    
+form{
+    padding-top: 430px;
+    padding-left: 20px;
+}
+#btn{
+    margin-top: 10px;
+
+}
+#b {
+    color:rgba(156, 136, 73)
+}
